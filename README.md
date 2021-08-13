@@ -1,6 +1,6 @@
 # Voice_assistant_with_python
-This project builds an AI voice assistant using Python.
-The voice assistant can perform the following tasks:
+This project builds an AI voice assistant using Python.<br>
+The voice assistant can perform the following tasks:<br>
 1.Opens a wepage : Youtube , G-Mail , Google Chrome<br>
 2.Predicts time<br>
 3.Fetch Top headlines from Times of India<br>
